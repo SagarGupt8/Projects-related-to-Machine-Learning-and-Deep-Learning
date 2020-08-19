@@ -1,0 +1,12 @@
+# Breast Cancer Classification Info:
+
+In this real world application, we have to predict whether a person is having MALIGNANT or BENIGN type of breast cancer.We have dataset of 30 Features by which we have to prepare our model to predict the cancer.
+
+### About the Data and Algorithm Using:
+        1. Number of instances: 569
+        2. Class Distribution:
+                 212 Malignant, 357 Benign
+
+link to dataset: scikit-learn-library 
+
+        Technique : Support Vector Machine Classifier
